@@ -14,3 +14,7 @@ SICP
 ```
 SICP - p.xxx
 ```
+
+## 利用しているPDF
+
+[こちら](https://github.com/minghai/sicp-pdf)で翻訳、公開して頂いている`非公式PDF版SICP`を利用しています。ライセンスは[こちら](https://github.com/minghai/sicp-pdf)に記載されている内容に従います。
